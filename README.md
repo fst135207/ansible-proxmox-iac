@@ -26,3 +26,18 @@ Dieses Projekt automatisiert die Bereitstellung einer virtuellen Infrastruktur a
 ### Ausführung
 ```bash
 Kommt noch....
+
+## 🧑‍💻 Autor
+**Felix**
+
+## 🌐 Kontakt & Socials
+
+| Plattform   | Link                                     |
+|-------------|------------------------------------------|
+| 📧 E-Mail    | [felix.stalder.bsu@gmail.com](mailto:felix.stalder.bsu@gmail.com) |
+| 💼 LinkedIn | [linkedin.com/in/felix-stalder-6b20472a6](https://www.linkedin.com/in/felix-stalder-6b20472a6) |
+
+---
+
+> 📁 Dieses Projekt ist Teil meines Portfolios  
+> Ich freue mich über Feedback oder Fragen – gerne per LinkedIn oder E-Mail.
